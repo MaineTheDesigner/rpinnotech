@@ -19,6 +19,19 @@ body {
 
 header {
     padding: 150px 0 100px;
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+}
+
+nav#mainNav {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 @media (min-width: 992px) {
@@ -44,33 +57,34 @@ p {
 
 h1 {
     font-size: 48px;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 1.3;
     color: #353d48;
 }
 
 h2 {
-    font-size: 16px;
-    font-weight: normal;
-    line-height: 1.5;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+
 }
 
 h3 {
     font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
-    line-height: 1.5;
-    letter-spacing: 1.1px;
+    line-height: 29px;
+    letter-spacing: 1.3px;
     color: #26a2ff;
 }
 
 h4 {
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 1.5;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
     letter-spacing: normal;
     text-align: center;
-    color: #353d48;
+    color: #727c89;
 }
 
 h5 {
@@ -110,6 +124,7 @@ nav#mainNav {
     letter-spacing: normal;
     text-align: left;
     color: #98a1ac;
+    box-shadow: 0 4px 16px rgba(16, 31, 59, .16);
 }
 
 /****** BUTTONS ******/
@@ -152,19 +167,20 @@ h2.col-11 {
 
 h4.card-title {
     font-size: 14px;
-    font-weight: bold;
+    font-weight: 500;
     text-transform: uppercase;
     text-align: left;
-    color: #24292e;
+    color: #3a5166;
+}
+
+.card-title {
+    margin-bottom: 0;
 }
 
 p.card-text {
     font-size: 14px;
     font-weight: 300;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: 1.43;
-    letter-spacing: 1.1px;
+    line-height: 22px;
     text-align: left;
     color: #727c89;
 }
@@ -184,15 +200,35 @@ p.card-text {
 
 .about-tc-p {
     font-size: 20px;
-    font-weight: normal;
-    line-height: 1;
-    letter-spacing: normal;
+    font-weight: 400;
+    line-height: 31px;
     text-align: left;
     color: #98a1ac;
 }
 
 .process {
     text-align: center;
+}
+
+.process-h4 {
+    color: #98a1ac;
+}
+
+/****** PROCESS ******/
+
+.process-card {
+    margin: 1.3em;
+    text-align: center;
+    color: #98a1ac;
+}
+
+.process-card-title {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+    text-transform: uppercase;
+    color: #ffffff;
 }
 
 /****** CLIENTS ******/
@@ -214,6 +250,12 @@ p.card-text {
     border: 0px !important;
 }
 
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.3rem;
+}
+
 .client-bound img {
     width: 230px;
     max-width: 100%;
@@ -232,6 +274,13 @@ p.card-text {
     border-top: solid #f5f5f5 1.5px;
     background-image: url() no-repeat;
     vertical-align: middle;
+}
+
+p.contact-p {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #24292e;
 }
 
 /****** FOOTER ******/
