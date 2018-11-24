@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Services_Graphic Design</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.1402344,29.9085937 C22.2550781,30.4335937 22.3125,30.975 22.3125,31.5246094 C22.3125,38.1855469 17.8664063,42 11.2546875,42 C3.40429688,42 0,35.6917969 0,28.5140625 C0.853125,29.0964844 3.84726562,31.5082031 4.81523438,31.5082031 C5.38945313,31.5082031 5.88164063,31.1800781 6.08671875,30.6386719 C8.02265625,25.5363281 11.5417969,24.3632812 15.3480469,24.2894531 C16.6277344,27.0621094 19.1296875,29.1785156 22.1402344,29.9085937 Z M37.7835937,0 C36.6023437,0 35.4949219,0.525 34.65,1.28789062 C18.7195312,15.5859375 17.0625,15.9222656 17.0625,20.1304688 C17.0625,24.1335937 20.3847656,27.5625 24.4617187,27.5625 C29.3015625,27.5625 32.1070312,24.0023438 40.9171875,7.48125 C41.4914062,6.35742187 42,5.14335937 42,3.88007812 C42,1.61601562 39.9738281,0 37.7835937,0 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#265ED5" offset="0%"></stop>
+            <stop stop-color="#26A2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Services_Graphic-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paint-brush" transform="translate(9.000000, 9.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Color" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                <rect id="Purple" x="0" y="0" width="42" height="42"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

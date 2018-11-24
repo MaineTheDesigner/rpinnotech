@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Services_App Dev</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.5703125,0 L4.4296875,0 C2.1652832,0 0.328125,1.8371582 0.328125,4.1015625 L0.328125,39.6484375 C0.328125,41.9128418 2.1652832,43.75 4.4296875,43.75 L23.5703125,43.75 C25.8347168,43.75 27.671875,41.9128418 27.671875,39.6484375 L27.671875,4.1015625 C27.671875,1.8371582 25.8347168,0 23.5703125,0 Z M14,41.015625 C12.4875488,41.015625 11.265625,39.7937012 11.265625,38.28125 C11.265625,36.7687988 12.4875488,35.546875 14,35.546875 C15.5124512,35.546875 16.734375,36.7687988 16.734375,38.28125 C16.734375,39.7937012 15.5124512,41.015625 14,41.015625 Z M23.5703125,31.7871094 C23.5703125,32.3510742 23.1088867,32.8125 22.5449219,32.8125 L5.45507812,32.8125 C4.89111328,32.8125 4.4296875,32.3510742 4.4296875,31.7871094 L4.4296875,5.12695312 C4.4296875,4.56298828 4.89111328,4.1015625 5.45507812,4.1015625 L22.5449219,4.1015625 C23.1088867,4.1015625 23.5703125,4.56298828 23.5703125,5.12695312 L23.5703125,31.7871094 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#265ED5" offset="0%"></stop>
+            <stop stop-color="#26A2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Services_App-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile-alt" transform="translate(16.000000, 8.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Color" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                <g transform="translate(-7.875000, 0.000000)" id="Purple">
+                    <rect x="0" y="0" width="43.75" height="43.75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

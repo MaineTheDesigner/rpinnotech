@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Launch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M41.4339844,1.56679688 C41.3273438,1.06640625 40.9335938,0.67265625 40.4332031,0.566015625 C37.7917969,0 35.7246094,0 33.665625,0 C25.2,0 20.1222656,4.528125 16.3324219,10.5 L7.78476563,10.5 C6.29179688,10.5 4.93007813,11.3449219 4.265625,12.6738281 L0.21328125,20.7785156 C-0.44296875,22.0910156 0.50859375,23.625 1.97695313,23.625 L9.778125,23.625 C9.29414063,24.675 8.80195313,25.7167969 8.3015625,26.7175781 C8.04726563,27.2261719 8.14570313,27.8332031 8.54765625,28.2351563 L13.7648438,33.4523438 C14.1667969,33.8542969 14.7738281,33.9527344 15.2824219,33.6984375 C16.2832031,33.1980469 17.325,32.7140625 18.375,32.2300781 L18.375,40.03125 C18.375,41.4914063 19.9171875,42.4429688 21.2214844,41.7949219 L29.3179688,37.7425781 C30.6550781,37.078125 31.4917969,35.7082031 31.4917969,34.2234375 L31.4917969,25.659375 C37.4472656,21.8613281 41.9917969,16.7671875 41.9917969,8.34257813 C42,6.27539063 42,4.20820313 41.4339844,1.56679688 Z" id="path-1"></path>
+        <linearGradient x1="57.3336887%" y1="9.14896536%" x2="43.831353%" y2="72.2774229%" id="linearGradient-3">
+            <stop stop-color="#265ED5" offset="0%"></stop>
+            <stop stop-color="#26A2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Launch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(6.000000, 6.000000)">
+            <g id="rocket" transform="translate(6.671573, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Color" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                    <rect id="Purple" x="0" y="0" width="42" height="42"></rect>
+                </g>
+                <path d="M32.3925,13.125 C30.4505469,13.125 28.875,11.3613281 28.875,9.1875 C28.875,7.01367188 30.4505469,5.25 32.3925,5.25 C34.3344531,5.25 35.91,7.01367188 35.91,9.1875 C35.91,11.3613281 34.3344531,13.125 32.3925,13.125 Z" id="Path" fill="#79FFC7" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+            <rect id="Rectangle" fill="#79FFC7" transform="translate(6.363961, 41.363961) rotate(-45.000000) translate(-6.363961, -41.363961) " x="-1.13603897" y="39.863961" width="15" height="3" rx="1.5"></rect>
+            <rect id="Rectangle" fill="#79FFC7" transform="translate(5.242641, 32.340000) rotate(-45.000000) translate(-5.242641, -32.340000) " x="0.742640687" y="30.84" width="9" height="3" rx="1.5"></rect>
+            <rect id="Rectangle" fill="#79FFC7" transform="translate(15.242641, 42.340000) rotate(-45.000000) translate(-15.242641, -42.340000) " x="10.7426407" y="40.84" width="9" height="3" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>
